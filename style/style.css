@@ -1,16 +1,6 @@
-.navbar{
-    margin-top:23px;
+.navbarbackground {
+    background-color:#dedede;
 }
-
-.headerLogo {
-  padding-top:20px;
-  padding-left:10px;
-}
-
-.headerImage {
-  margin-top: 2vh;
-}
-
 .text-content {
   margin-top: 5vh;
 }
