@@ -4,52 +4,79 @@
 .text-content {
   margin-top: 5vh;
 }
-  .text-content .h1 {
-    font-size: 22.5px;
-    line-height: 36.346px;
-    color: #333333;
-    font-family: 'Raleway';
-    font-weight: 300;
-    letter-spacing: 0px;
-  }
-  .text-quote {
-    margin-left: 2vw;
-    color: #f58558;
-    font-size: 22px;
-    font-family: 'Raleway';
-    font-weight: 600;
-    line-height: 1.33;
-    letter-spacing: 0px;
-  }
+.text-content .h1 {
+  font-size: 22.5px;
+  line-height: 36.346px;
+  color: #333333;
+  font-family: 'Raleway';
+  font-weight: 300;
+  letter-spacing: 0px;
+}
+.quote-img {
+  float:left;
+  margin: 15px;
+}
+.text-quote {
+  margin-left: 2vw;
+  color: #f58558;
+  font-size: 22px;
+  font-family: 'Raleway';
+  font-weight: 600;
+  line-height: 1.33;
+  letter-spacing: 0px;
+}
 
-  .homepage-content p {
-    margin-left: 1vw;
-    margin-bottom: 20px;
-    color: #747474;
-    font-size: 15px;
-    line-height: 2;
-    font-family: 'Open Sans';
-    font-weight: 400;
-    letter-spacing: 0px;
-  }
-  .mission-content {
-    margin-top: 5vh;
-  }
-  .mission-content .h1 {
-    margin-left:1vh;
-    color: #f58558;
-    font-size: 35px;
-    font-family: 'Raleway';
-    font-weight: 600;
-    line-height: 1.33;
-    letter-spacing: 0px;
-  }
+.homepage-content p {
+  margin-left: 1vw;
+  margin-bottom: 20px;
+  color: #747474;
+  font-size: 15px;
+  line-height: 2;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+.mission-content {
+  margin-top: 5vh;
+}
+.mission-content .h1 {
+  margin-left:1vh;
+  color: #f58558;
+  font-size: 35px;
+  font-family: 'Raleway';
+  font-weight: 600;
+  line-height: 1.33;
+  letter-spacing: 0px;
+}
 
-  .chapter-statement {
-    color: #747474;
-    font-size: 15px;
-    line-height: 1.5;
-    font-family: 'Open Sans';
-    font-weight: 400;
-    letter-spacing: 0px;
-  }
+.chapter-statement {
+  color: #747474;
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+
+.events-container {
+  margin-top: 5vh;
+}
+
+.event .h3 {
+  color: #f58558;
+  font-size: 22px;
+  font-family: 'Raleway';
+  font-weight: 600;
+  line-height: 1.33;
+  letter-spacing: 0px;
+}
+
+.event-date {
+  margin-left: 1vw;
+  margin-bottom: 20px;
+  color: #747474;
+  font-size: 15px;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  letter-spacing: 0px;
+}
