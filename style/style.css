@@ -1,15 +1,44 @@
 .navbar{
-    margin-top:7px;
+    margin-top:15px;
 }
 
 .headerLogo {
-  padding-top:5px;
+  padding-top:20px;
+  padding-left:10px;
 }
 
 .headerImage {
-  margin-top: 1vh;
+  margin-top: 2vh;
 }
 
-.body {
+.text-content {
   margin-top: 5vh;
 }
+  .text-content .h1 {
+    font-size: 22.5px;
+    line-height: 36.346px;
+    color: #333333;
+    font-family: 'Raleway';
+    font-weight: 300;
+    letter-spacing: 0px;
+  }
+  .text-quote {
+    margin-left: 2vw;
+    color: #f58558;
+    font-size: 22px;
+    font-family: 'Raleway';
+    font-weight: 600;
+    line-height: 1.33;
+    letter-spacing: 0px;
+  }
+
+  .homepage-content p {
+    margin-left: 1vw;
+    margin-bottom: 20px;
+    color: #747474;
+    font-size: 15px;
+    line-height: 2;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    letter-spacing: 0px;
+  }
